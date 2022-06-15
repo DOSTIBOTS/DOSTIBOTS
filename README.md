@@ -3,15 +3,15 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=F38777&width=490&lines=𝗣𝗘𝗥𝗦𝗢𝗡𝗔𝗟+𝗜𝗡𝗙𝗢𝗥𝗠𝗔𝗧𝗜𝗢𝗡%E2%9C%8C">
 </p> 
 
-<p align='Middle'><a href='https://t.me/Mr_Agora'><img src='(https://te.legra.ph/file/54a0db118feba7f497d59.jpg)' width="420"></a></p>
+<p align='Middle'><a href='https://t.me/Mr_Agora'><img src='(https://te.legra.ph/file/54a0db118feba7f497d59.jpg)' width="620"></a></p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=F555247&width=890&lines=𝗕𝗢𝗧+𝗜𝗦+𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗙𝗢𝗥+𝗙𝗥𝗜𝗘𝗡𝗗+𝗪𝗜𝗧𝗛+𝗟𝗢𝗩𝗘+𝗔𝗡𝗗+𝗛𝗔𝗥𝗗𝗪𝗢𝗥𝗞+𝗕𝗬+𝗗𝗢𝗦𝗧𝗜𝗕𝗢𝗧%E2%9C%8C">
 </p> 
 
 ## 𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦
-![DOSTIBOTS's's GitHub stats](https://github-readme-stats.vercel.app/api?username=MR-AGORA&show_icons=true&theme=synthwave) &nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MR-AGORA&layout=compact&show_icons=true&theme=synthwave)
+![DOSTIBOTS's's GitHub stats](https://github-readme-stats.vercel.app/api?username=DOSTIBOTS&show_icons=true&theme=synthwave) &nbsp;
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MR_AGORA&layout=compact&show_icons=true&theme=synthwave)
 
 <h1> <img src="https://github.com/AnonymousR1025/AnonymousR1025/blob/master/resources/codes.webp" width="70px"> Hᴇʏ ᴛʜᴇʀᴇ, ᴛʜɪs ɪs ᴍʀ ᴅᴏsᴛɪʙᴏᴛs </h1>
 <p align="center">
